@@ -2,7 +2,7 @@
 
 まず以下のシステムを考える
 
-![system image](https://github.com/MojamojaK/MojamojaK.github.io/blob/master/system0.png)
+![system image](https://github.com/MojamojaK/WASA-HPA-Kouza/blob/master/system0.png)
 
 センサ値をArduinoAが読みとって、ArduinoBに有線で送って
 無線送信してPCで受け取るシステム。
@@ -63,9 +63,9 @@ Arduinoで
 
 (実際はこのまま送信される訳じゃないけど、今はまあこんな感じだと考えてOK。詳しくは[こちら](https://www.contec.com/jp/support/basic-knowledge/daq-control/serial-communicatin/)。)
 
-![graph0](https://github.com/MojamojaK/MojamojaK.github.io/blob/master/graph0.png)
+![graph0](https://github.com/MojamojaK/WASA-HPA-Kouza/blob/master/graph0.png)
 
-![MEGA Serial](https://github.com/MojamojaK/MojamojaK.github.io/blob/master/mega_pinout0.png)
+![MEGA Serial](https://github.com/MojamojaK/WASA-HPA-Kouza/blob/master/mega_pinout0.png)
 
 また、sensorValueFloat=1.14514(2進数で```00111111100100101001001111110011```)
 (詳しくはhttps://ja.wikipedia.org/wiki/IEEE_754) 
