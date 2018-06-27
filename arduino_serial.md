@@ -72,7 +72,7 @@ Arduinoで
 はSerial.print(sensorValueFloat)
 ```00110001　00101110　00110001　00110100　00110101　00110001　00110100``` に変換されて先程と同様、
 
-!(graph1)[https://github.com/MojamojaK/MojamojaK.github.io/blob/master/graph1.png]
+![graph1](https://github.com/MojamojaK/WASA-HPA-Kouza/blob/master/graph1.png)
 
 という波形がTXピンから出る。
 
