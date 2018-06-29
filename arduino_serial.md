@@ -83,21 +83,30 @@ Arduinoで
 
 #### ASCIIの送信
 
-	```Serial.print(sensorValueInt);```
+```
+Serial.print(sensorValueInt);
+```
   https://goo.gl/YKNeL1
   
-	```Serial.println(sensorValueInt);```
+```
+Serial.println(sensorValueInt);
+```
   https://goo.gl/GQHPHp Serial.print() に改行文字 “\n” (0x0A)を最後につけるだけ
 
-    
-	```Serial.flush();```
+```
+Serial.flush();
+```
   https://goo.gl/g72PFL 送信が完了するまで待つ関数。
 
 #### ASCIIの受信
 
-	```int receiveInt = Serial.parseInt();```
-  https://goo.gl/g553jD int型
+```
+int receiveInt = Serial.parseInt();
+```
+  https://goo.gl/g553jD long型
   
-	```float receiveFloat = Serial.parseFloat();```
+```
+float receiveFloat = Serial.parseFloat();
+```
   https://goo.gl/Jvx9f9 これらの受信関数は受信されるまで待つ　float型
 
