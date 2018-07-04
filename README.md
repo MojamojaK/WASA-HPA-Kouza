@@ -3,7 +3,7 @@
 暇になったらテキトーに更新してくので↓のリンク踏んでみてください
 
 ## Arduino
-- [ArduinoによるSerial通信](https://github.com/MojamojaK/WASA-HPA-Kouza/blob/master/arduino_serial.md)
+- [ArduinoによるSerial通信](Arduino/arduino_serial.md)
 - 操舵系統のプログラムフロー
   - [ESP-WROOM-02との通信]()(工事中)
   - [計測基板との通信]()(工事中)
@@ -11,7 +11,7 @@
 - 計測系統のプログラムフロー
   - [回転数計]()(工事中)
   - [機速計]()(工事中)
-  - [高度計]()(工事中)
+  - [高度計](Arduino/altimeter.md)
   - [GPSモジュール]()(工事中)
   - [操舵基板との通信]()(工事中)
 - Spectrum (操舵設定システム)
