@@ -31,7 +31,7 @@
 
 ## RS405CB サーボモータ
 - [仕組み](RS405CB/仕組み.md)
-- [Arduinoでの使用例](RS405CB/Arduinoでの使用例.md)(工事中)
+- [Arduinoでの使用例](RS405CB/Arduinoでの使用例.md)
 
 ## Ghost
 PC版テレメトリシステム
