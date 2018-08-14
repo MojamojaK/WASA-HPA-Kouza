@@ -14,7 +14,7 @@
   - [回転数計](Arduino/回転数計.md)
   - ~[機速計](./README.md)~
   - [高度計](Arduino/高度計.md)
-  - ~[GPSモジュール](Arduino/GPSモジュール.md)~
+  - [GPSモジュール](Arduino/GPSモジュール.md)
   - ~[操舵基板との通信](./README.md)~
 - Spectrum (操舵設定システム)
   - ESP-WROOM-02側 (サーバー)
