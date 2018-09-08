@@ -27,7 +27,7 @@
     - ~[Javascriptコード](./README.md)~
 
 ## Xbee
-- お[設定関連](Xbee/設定関連.md)
+- [設定関連](XBee/設定関連.md)
 - ~[Arduinoでの使用](./README.md)~
 - ~[Node.jsでの使用](./README.md)~
 
