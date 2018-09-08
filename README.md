@@ -1,6 +1,6 @@
 # WASA鳥プロ電装班用資料
 
-最終更新: 2018/08/14
+最終更新: 2018/09/08
 
 暇になったらテキトーに更新してくので↓のリンク踏んでみてください
 
@@ -15,7 +15,7 @@
   - ~[機速計](./README.md)~
   - [高度計](Arduino/高度計.md)
   - [GPSモジュール](Arduino/GPSモジュール.md)
-  - ~[操舵基板との通信](./README.md)~
+  - [操舵基板との通信](Arduino/計測操舵基板との通信.md)
 - Spectrum (操舵設定システム)
   - ESP-WROOM-02側 (サーバー)
     - ~[ファイルシステム](./README.md)~
@@ -27,7 +27,7 @@
     - ~[Javascriptコード](./README.md)~
 
 ## Xbee
-- ~[設定関連](./README.md)~
+- お[設定関連](Xbee/設定関連.md)
 - ~[Arduinoでの使用](./README.md)~
 - ~[Node.jsでの使用](./README.md)~
 

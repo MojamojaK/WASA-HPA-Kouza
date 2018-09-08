@@ -17,7 +17,7 @@ Arduino A から Arduino Bにデータを送信する方法について
 以下ではセンサから読み取った値は int型(Arduinoでのint型はC言語の4byteと違って2byte) で変数名は ```sensorValueInt``` と、float型(Arduinoでは4byte)で変数名を ```sensorValueFloat``` の2つとする。
 
 ## ASCII通信
-(俺が勝手ににこう呼んでるから一般的には通じないかも)
+(俺が勝手ににこう呼んでるから一般的には通じないよ)
 
 ASCII(American Standard Code for Information Interchange)通信は読み取った値をASCIIの文字列にしたまま送受信する方法である。
 たとえば、`sensorValueInt = 334`, `sensorValueFloat = 1.14514`という値を送信するとする。
